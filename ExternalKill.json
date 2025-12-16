@@ -1,3 +1,9 @@
 {
-  "kill": true
+  "enabled": true,
+  "targets": {
+    "apps": ["VELORIN"]
+  },
+  "message": {
+    "note": "đã bị vô hiệu hóa."
+  }
 }
