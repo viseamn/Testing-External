@@ -1,9 +1,9 @@
 {
-  "enabled": true,
-  "targets": {
-    "apps": ["VELORIN"]
-  },
+  "kill": false,
+  "enable": false,
+  "enabled": false,
+  "active": false,
   "message": {
-    "note": "Kill Switch"
+    "note": "Kill switch hiện đang tắt."
   }
 }
