@@ -1,9 +1,5 @@
 {
-  "enabled": true,
-  "targets": {
-    "apps": ["VELORIN"]
-  },
-  "message": {
-    "Kill Switch On , Thank you!"
-  }
+  "kill": true,
+  "targets": ["VELORIN"],
+  "message": "Remote kill triggered"
 }
