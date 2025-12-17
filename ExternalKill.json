@@ -1,5 +1,0 @@
-{
-  "kill": true,
-  "targets": ["VELORIN"],
-  "message": "Remote kill triggered"
-}
