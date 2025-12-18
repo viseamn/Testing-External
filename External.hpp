@@ -1,6 +1,6 @@
 #pragma once
 
-namespace fflags 
+namespace FFlags 
 {
           uintptr_t ACSReturnPromiseException = 0x6799878;
           uintptr_t ADS4948SendUniverseIdToEventStream = 0x67bf980;
